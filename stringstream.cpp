@@ -52,7 +52,7 @@ string timeConversion(string s) {
 
 int main()
 {
-	cout<<"gand main dum hai to ab dall ke dekh\n";
+	cout<<"enter the time in dd:mm:ssPM or AM \n";
 
     string s;
     getline(cin, s);
